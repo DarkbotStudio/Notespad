@@ -1,0 +1,30 @@
+Notespad Software License Agreement
+
+This Software License Agreement (the "Agreement") is a legal agreement between you (the "Licensee") and Darkbot Studio (the "Licensor") for the use of the Notespad software (the "Software"). By installing, copying, or otherwise using the Software, you agree to be bound by the terms and conditions of this Agreement.
+
+1. Grant of License
+Subject to the terms and conditions of this Agreement, the Licensor hereby grants the Licensee a non-exclusive, non-transferable license to use the Software for personal or business purposes, on a single computer or device at a time.
+
+2. Restrictions
+The Licensee shall not:
+a) Copy, modify, or distribute the Software or any portion of it;
+b) Reverse engineer, decompile, or disassemble the Software;
+c) Remove or alter any proprietary notices or labels on the Software;
+d) Rent, lease, sublicense, or transfer the Software to any third party;
+e) Use the Software in any manner that violates applicable laws or regulations.
+
+3. Intellectual Property
+The Software and any accompanying documentation are protected by intellectual property laws and international treaties. The Licensor retains all rights, title, and interest in and to the Software, including any updates or modifications.
+
+4. Termination
+This Agreement is effective until terminated. The Licensor may terminate this Agreement immediately if the Licensee breaches any of its terms and conditions. Upon termination, the Licensee shall cease all use of the Software and destroy all copies in its possession.
+
+5. Warranty and Disclaimer
+The Software is provided "as is" without any warranty of any kind, whether express or implied. The Licensor disclaims all warranties, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+6. Limitation of Liability
+In no event shall the Licensor be liable for any direct, indirect, incidental, special, or consequential damages arising out of or in any way connected with the use of the Software or this Agreement, even if advised of the possibility of such damages.
+
+By installing or using the Software, you acknowledge that you have read and understood this Agreement and agree to be bound by its terms and conditions.
+
+Please note that the program is completely free, so do not purchase it from other individuals.

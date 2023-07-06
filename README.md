@@ -1,6 +1,6 @@
 # Notespad
 
-Notespad is a simple and lightweight text editor built using PySide6. It provides basic functionality for creating, opening, and saving text files. The application supports multiple languages, including English, Русский (Russian), and Українська (Ukrainian).
+Notespad is a simple and lightweight text editor. It provides basic functionality for creating, opening, and saving text files. The application supports multiple languages, including English, Русский (Russian), and Українська (Ukrainian).
 
 ## Features
 

@@ -59,6 +59,26 @@ By default, the application is set to English. To change the language, follow th
 
 A restart of the application is required for the language changes to take effect. After restarting, the application will be displayed in the selected language.
 
+### A languages that support Notespad:
+- Українська
+- Русский
+- English
+- Français
+- Español
+- Deutsch
+- Italiano
+- Português
+- 日本語
+- 中文
+- Suomi
+- Svenska
+- Norsk
+- Ελληνικά
+- Türkçe
+- Polski
+- Magyar
+- Čeština
+
 ## About
 
 Notespad is a project developed by Darkbot Studio. It is a small and simple text editor designed for ease of use and efficiency. For more information about the author and the project, you can visit the following links:

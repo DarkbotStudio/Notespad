@@ -19,7 +19,7 @@ To run the Notespad application, follow these steps:
 1. Install the necessary dependencies by running the following command:
 
 ```
-pip install PySide6
+pip install PySide6 requests
 ```
 
 2. Download the source code for Notespad.

@@ -1,0 +1,776 @@
+{
+  "Українська": {
+    "menu": {
+      "file": "Файл",
+      "new": "Новий файл",
+      "open": "Відкрити",
+      "save": "Зберегти",
+      "save_as": "Зберегти як",
+      "settings": "Налаштування",
+      "about": "Про програму",
+      "exit": "Вийти",
+      "status_file": "Створити новий файл",
+      "status_open": "Відкрити файл",
+      "status_save": "Зберегти файл",
+      "status_save_as": "Зберегти файл як",
+      "status_settings": "Відкрити налаштування",
+      "status_exit": "Вийти з програми",
+      "explorer_open_file": "Відкрити файл",
+      "explorer_save_file": "Зберегти файл",
+      "explorer_extentions": "Текстові файли (*.txt);;Всі файли (*)",
+      "status_new_tab": "Нова вкладка",
+      "status_close_tab": "Закрити вкладку",
+      "new_tab": "Нова вкладка",
+      "close_tab": "Закрити вкладку",
+      "tabs": "Вкладки"
+    },
+    "about": {
+      "title": "Про програму",
+      "text": "<b>Notespad - простий і маленький текстовий редактор.<br><br>Автор: <a href=\"https://t.me/darkbot_dev\">Darkbot Studio</a><br><a href=\"https://github.com/DarkbotStudio\">GitHub автора</a><br>Версія програми - 1.0.2</b>"
+    },
+    "settings": {
+      "title": "Налаштування",
+      "language": "Мова програми:",
+      "restart_required": "Необхідно перезапустити програму",
+      "restart_message": "Будь ласка, перезапустіть програму, щоб зміни мови набули чинності."
+    },
+    "update": {
+      "available": "Доступно оновлення!",
+      "new_version": "Доступна нова версія програми!",
+      "download": "Завантажити оновлення",
+      "no_reminder": "Не нагадувати",
+      "remind_next_time": "Нагадати наступного разу"
+    }
+  },
+  "Русский": {
+    "menu": {
+      "file": "Файл",
+      "new": "Новый файл",
+      "open": "Открыть",
+      "save": "Сохранить",
+      "save_as": "Сохранить как",
+      "settings": "Настройки",
+      "about": "О программе",
+      "exit": "Выход",
+      "status_file": "Создать новый файл",
+      "status_open": "Открыть файл",
+      "status_save": "Сохранить файл",
+      "status_save_as": "Сохранить файл как",
+      "status_settings": "Открыть настройки",
+      "status_exit": "Выйти из программы",
+      "explorer_open_file": "Открыть файл",
+      "explorer_save_file": "Сохранить файл",
+      "explorer_extentions": "Текстовые файлы (*.txt);;Все файлы (*)",
+      "status_new_tab": "Новая вкладка",
+      "status_close_tab": "Закрыть вкладку",
+      "new_tab": "Новая вкладка",
+      "close_tab": "Закрыть вкладку",
+      "tabs": "Вкладки"
+    },
+    "about": {
+      "title": "О программе",
+      "text": "<b>Notespad - простой и небольшой текстовый редактор.<br><br>Автор: <a href=\"https://t.me/darkbot_dev\">Darkbot Studio</a><br><a href=\"https://github.com/DarkbotStudio\">GitHub автора</a><br>Версия программы - 1.0.2</b>"
+    },
+    "settings": {
+      "title": "Настройки",
+      "language": "Язык программы:",
+      "restart_required": "Необходимо перезапустить программу",
+      "restart_message": "Пожалуйста, перезапустите программу, чтобы изменения языка вступили в силу."
+    },
+    "update": {
+      "available": "Доступно обновление!",
+      "new_version": "Доступна новая версия программы!",
+      "download": "Скачать обновление",
+      "no_reminder": "Не напоминать",
+      "remind_next_time": "Напомнить в следующий раз"
+    }
+  },
+  "English": {
+    "menu": {
+      "file": "File",
+      "new": "New File",
+      "open": "Open",
+      "save": "Save",
+      "save_as": "Save As",
+      "settings": "Settings",
+      "about": "About",
+      "exit": "Exit",
+      "status_file": "Create a new file",
+      "status_open": "Open file",
+      "status_save": "Save file",
+      "status_save_as": "Save file as",
+      "status_settings": "Open settings",
+      "status_exit": "Exit the program",
+      "explorer_open_file": "Open file",
+      "explorer_save_file": "Save file",
+      "explorer_extentions": "Text files (*.txt);;All files (*)",
+      "status_new_tab": "New tab",
+      "status_close_tab": "Close tab",
+      "new_tab": "New tab",
+      "close_tab": "Close tab",
+      "tabs": "Tabs"
+    },
+    "about": {
+      "title": "About",
+      "text": "<b>Notespad - a simple and lightweight text editor.<br><br>Author: <a href=\"https://t.me/darkbot_dev\">Darkbot Studio</a><br><a href=\"https://github.com/DarkbotStudio\">Author's GitHub</a><br>Software Version - 1.0.2</b>"
+    },
+    "settings": {
+      "title": "Settings",
+      "language": "Program Language:",
+      "restart_required": "Restart required",
+      "restart_message": "Please restart the program for the language changes to take effect."
+    },
+    "update": {
+      "available": "Update available!",
+      "new_version": "A new version of the program is available!",
+      "download": "Download update",
+      "no_reminder": "Don't remind me",
+      "remind_next_time": "Remind me next time"
+    }
+  },
+  "Français": {
+    "menu": {
+      "file": "Fichier",
+      "new": "Nouveau fichier",
+      "open": "Ouvrir",
+      "save": "Enregistrer",
+      "save_as": "Enregistrer sous",
+      "settings": "Paramètres",
+      "about": "À propos",
+      "exit": "Quitter",
+      "status_file": "Créer un nouveau fichier",
+      "status_open": "Ouvrir le fichier",
+      "status_save": "Enregistrer le fichier",
+      "status_save_as": "Enregistrer le fichier sous",
+      "status_settings": "Ouvrir les paramètres",
+      "status_exit": "Quitter le programme",
+      "explorer_open_file": "Ouvrir le fichier",
+      "explorer_save_file": "Enregistrer le fichier",
+      "explorer_extentions": "Fichiers texte (*.txt);;Tous les fichiers (*)",
+      "status_new_tab": "Nouvel onglet",
+      "status_close_tab": "Fermer l'onglet",
+      "new_tab": "Nouvel onglet",
+      "close_tab": "Fermer l'onglet",
+      "tabs": "Onglets"
+    },
+    "about": {
+      "title": "À propos",
+      "text": "<b>Notespad - un éditeur de texte simple et léger.<br><br>Auteur : <a href=\"https://t.me/darkbot_dev\">Darkbot Studio</a><br><a href=\"https://github.com/DarkbotStudio\">GitHub de l'auteur</a><br>Version du logiciel - 1.0.2</b>"
+    },
+    "settings": {
+      "title": "Paramètres",
+      "language": "Langue du programme :",
+      "restart_required": "Redémarrage requis",
+      "restart_message": "Veuillez redémarrer le programme pour que les modifications de langue prennent effet."
+    },
+    "update": {
+      "available": "Mise à jour disponible !",
+      "new_version": "Une nouvelle version du programme est disponible !",
+      "download": "Télécharger la mise à jour",
+      "no_reminder": "Ne pas me le rappeler",
+      "remind_next_time": "Rappeler la prochaine fois"
+    }
+  },
+  "Español": {
+    "menu": {
+      "file": "Archivo",
+      "new": "Nuevo archivo",
+      "open": "Abrir",
+      "save": "Guardar",
+      "save_as": "Guardar como",
+      "settings": "Configuración",
+      "about": "Acerca de",
+      "exit": "Salir",
+      "status_file": "Crear un nuevo archivo",
+      "status_open": "Abrir archivo",
+      "status_save": "Guardar archivo",
+      "status_save_as": "Guardar archivo como",
+      "status_settings": "Abrir configuración",
+      "status_exit": "Salir del programa",
+      "explorer_open_file": "Abrir archivo",
+      "explorer_save_file": "Guardar archivo",
+      "explorer_extentions": "Archivos de texto (*.txt);;Todos los archivos (*)",
+      "status_new_tab": "Nueva pestaña",
+      "status_close_tab": "Cerrar pestaña",
+      "new_tab": "Nueva pestaña",
+      "close_tab": "Cerrar pestaña",
+      "tabs": "Pestañas"
+    },
+    "about": {
+      "title": "Acerca de",
+      "text": "<b>Notespad - un editor de texto simple y ligero.<br><br>Autor: <a href=\"https://t.me/darkbot_dev\">Darkbot Studio</a><br><a href=\"https://github.com/DarkbotStudio\">GitHub del autor</a><br>Versión del software - 1.0.2</b>"
+    },
+    "settings": {
+      "title": "Configuración",
+      "language": "Idioma del programa:",
+      "restart_required": "Reinicio requerido",
+      "restart_message": "Por favor, reinicia el programa para que los cambios de idioma tengan efecto."
+    },
+    "update": {
+      "available": "¡Actualización disponible!",
+      "new_version": "¡Hay una nueva versión del programa disponible!",
+      "download": "Descargar actualización",
+      "no_reminder": "No recordar",
+      "remind_next_time": "Recordar la próxima vez"
+    }
+  },
+  "Deutsch": {
+    "menu": {
+      "file": "Datei",
+      "new": "Neue Datei",
+      "open": "Öffnen",
+      "save": "Speichern",
+      "save_as": "Speichern als",
+      "settings": "Einstellungen",
+      "about": "Über",
+      "exit": "Beenden",
+      "status_file": "Neue Datei erstellen",
+      "status_open": "Datei öffnen",
+      "status_save": "Datei speichern",
+      "status_save_as": "Datei speichern als",
+      "status_settings": "Einstellungen öffnen",
+      "status_exit": "Programm beenden",
+      "explorer_open_file": "Datei öffnen",
+      "explorer_save_file": "Datei speichern",
+      "explorer_extentions": "Textdateien (*.txt);;Alle Dateien (*)",
+      "status_new_tab": "Neuer Tab",
+      "status_close_tab": "Tab schließen",
+      "new_tab": "Neuer Tab",
+      "close_tab": "Tab schließen",
+      "tabs": "Tabs"
+    },
+    "about": {
+      "title": "Über",
+      "text": "<b>Notespad - ein einfacher und leichtgewichtiger Texteditor.<br><br>Autor: <a href=\"https://t.me/darkbot_dev\">Darkbot Studio</a><br><a href=\"https://github.com/DarkbotStudio\">Autor-GitHub</a><br>Software-Version - 1.0.2</b>"
+    },
+    "settings": {
+      "title": "Einstellungen",
+      "language": "Programmsprache:",
+      "restart_required": "Neustart erforderlich",
+      "restart_message": "Bitte starte das Programm neu, damit die Sprachänderungen wirksam werden."
+    },
+    "update": {
+      "available": "Update verfügbar!",
+      "new_version": "Eine neue Version des Programms ist verfügbar!",
+      "download": "Update herunterunterladen",
+      "no_reminder": "Nicht erinnern",
+      "remind_next_time": "Beim nächsten Mal erinnern"
+    }
+  },
+  "Italiano": {
+    "menu": {
+      "file": "File",
+      "new": "Nuovo file",
+      "open": "Apri",
+      "save": "Salva",
+      "save_as": "Salva con nome",
+      "settings": "Impostazioni",
+      "about": "Informazioni",
+      "exit": "Esci",
+      "status_file": "Crea un nuovo file",
+      "status_open": "Apri file",
+      "status_save": "Salva file",
+      "status_save_as": "Salva file come",
+      "status_settings": "Apri impostazioni",
+      "status_exit": "Esci dal programma",
+      "explorer_open_file": "Apri file",
+      "explorer_save_file": "Salva file",
+      "explorer_extentions": "File di testo (*.txt);;Tutti i file (*)",
+      "status_new_tab": "Nuova scheda",
+      "status_close_tab": "Chiudi scheda",
+      "new_tab": "Nuova scheda",
+      "close_tab": "Chiudi scheda",
+      "tabs": "Schede"
+    },
+    "about": {
+      "title": "Informazioni",
+      "text": "<b>Notespad - un semplice editor di testo leggero.<br><br>Autore: <a href=\"https://t.me/darkbot_dev\">Darkbot Studio</a><br><a href=\"https://github.com/DarkbotStudio\">GitHub dell'autore</a><br>Versione del software - 1.0.2</b>"
+    },
+    "settings": {
+      "title": "Impostazioni",
+      "language": "Lingua del programma:",
+      "restart_required": "Riavvio richiesto",
+      "restart_message": "Per favore, riavvia il programma affinché le modifiche linguistiche abbiano effetto."
+    },
+    "update": {
+      "available": "Aggiornamento disponibile!",
+      "new_version": "È disponibile una nuova versione del programma!",
+      "download": "Scarica aggiornamento",
+      "no_reminder": "Non ricordare",
+      "remind_next_time": "Ricorda la prossima volta"
+    }
+  },
+  "Português": {
+    "menu": {
+      "file": "Arquivo",
+      "new": "Novo arquivo",
+      "open": "Abrir",
+      "save": "Salvar",
+      "save_as": "Salvar como",
+      "settings": "Configurações",
+      "about": "Sobre",
+      "exit": "Sair",
+      "status_file": "Criar um novo arquivo",
+      "status_open": "Abrir arquivo",
+      "status_save": "Salvar arquivo",
+      "status_save_as": "Salvar arquivo como",
+      "status_settings": "Abrir configurações",
+      "status_exit": "Sair do programa",
+      "explorer_open_file": "Abrir arquivo",
+      "explorer_save_file": "Salvar arquivo",
+      "explorer_extentions": "Arquivos de texto (*.txt);;Todos os arquivos (*)",
+      "status_new_tab": "Nova aba",
+      "status_close_tab": "Fechar aba",
+      "new_tab": "Nova aba",
+      "close_tab": "Fechar aba",
+      "tabs": "Abas"
+    },
+    "about": {
+      "title": "Sobre",
+      "text": "<b>Notespad - um editor de texto simples e leve.<br><br>Autor: <a href=\"https://t.me/darkbot_dev\">Darkbot Studio</a><br><a href=\"https://github.com/DarkbotStudio\">GitHub do autor</a><br>Versão do software - 1.0.2</b>"
+    },
+    "settings": {
+      "title": "Configurações",
+      "language": "Idioma do programa:",
+      "restart_required": "Reinicialização necessária",
+      "restart_message": "Por favor, reinicie o programa para que as alterações de idioma tenham efeito."
+    },
+    "update": {
+      "available": "Atualização disponível!",
+      "new_version": "Uma nova versão do programa está disponível!",
+      "download": "Baixar atualização",
+      "no_reminder": "Não lembrar",
+      "remind_next_time": "Lembrar na próxima vez"
+    }
+  },
+  "日本語": {
+    "menu": {
+      "file": "ファイル",
+      "new": "新規ファイル",
+      "open": "開く",
+      "save": "保存",
+      "save_as": "名前を付けて保存",
+      "settings": "設定",
+      "about": "情報",
+      "exit": "終了",
+      "status_file": "新しいファイルを作成",
+      "status_open": "ファイルを開く",
+      "status_save": "ファイルを保存",
+      "status_save_as": "名前を付けてファイルを保存",
+      "status_settings": "設定を開く",
+      "status_exit": "プログラムを終了する",
+      "explorer_open_file": "ファイルを開く",
+      "explorer_save_file": "ファイルを保存",
+      "explorer_extentions": "テキストファイル (*.txt);;すべてのファイル (*)",
+      "status_new_tab": "新しいタブ",
+      "status_close_tab": "タブを閉じる",
+      "new_tab": "新しいタブ",
+      "close_tab": "タブを閉じる",
+      "tabs": "タブ"
+    },
+    "about": {
+      "title": "情報",
+      "text": "<b>Notespad - シンプルで軽量なテキストエディタ。<br><br>作者：<a href=\"https://t.me/darkbot_dev\">Darkbot Studio</a><br><a href=\"https://github.com/DarkbotStudio\">作者のGitHub</a><br>ソフトウェアバージョン - 1.0.2</b>"
+    },
+    "settings": {
+      "title": "設定",
+      "language": "言語：",
+      "restart_required": "再起動が必要です",
+      "restart_message": "言語の変更を有効にするためには、プログラムを再起動してください。"
+    },
+    "update": {
+      "available": "アップデートが利用可能です！",
+      "new_version": "新しいバージョンのプログラムが利用可能です！",
+      "download": "アップデートをダウンロード",
+      "no_reminder": "リマインダーしない",
+      "remind_next_time": "次回にリマインダー"
+    }
+  },
+  "中文": {
+    "menu": {
+      "file": "文件",
+      "new": "新建文件",
+      "open": "打开",
+      "save": "保存",
+      "save_as": "另存为",
+      "settings": "设置",
+      "about": "关于",
+      "exit": "退出",
+      "status_file": "创建新文件",
+      "status_open": "打开文件",
+      "status_save": "保存文件",
+      "status_save_as": "另存为文件",
+      "status_settings": "打开设置",
+      "status_exit": "退出程序",
+      "explorer_open_file": "打开文件",
+      "explorer_save_file": "保存文件",
+      "explorer_extentions": "文本文件 (*.txt);;所有文件 (*)",
+      "status_new_tab": "新建标签页",
+      "status_close_tab": "关闭标签页",
+      "new_tab": "新建标签页",
+      "close_tab": "关闭标签页",
+      "tabs": "标签页"
+    },
+    "about": {
+      "title": "关于",
+      "text": "<b>Notespad - 一个简单且轻量的文本编辑器。<br><br>作者：<a href=\"https://t.me/darkbot_dev\">Darkbot Studio</a><br><a href=\"https://github.com/DarkbotStudio\">作者的GitHub</a><br>软件版本 - 1.0.2</b>"
+    },
+    "settings": {
+      "title": "设置",
+      "language": "程序语言：",
+      "restart_required": "需要重启",
+      "restart_message": "请重启程序以使语言更改生效。"
+    },
+    "update": {
+      "available": "有可用的更新！",
+      "new_version": "有新版本的程序可用！",
+      "download": "下载更新",
+      "no_reminder": "不提醒",
+      "remind_next_time": "下次提醒"
+    }
+  },
+  "Suomi": {
+    "menu": {
+      "file": "Tiedosto",
+      "new": "Uusi tiedosto",
+      "open": "Avaa",
+      "save": "Tallenna",
+      "save_as": "Tallenna nimellä",
+      "settings": "Asetukset",
+      "about": "Tietoja",
+      "exit": "Poistu",
+      "status_file": "Luo uusi tiedosto",
+      "status_open": "Avaa tiedosto",
+      "status_save": "Tallenna tiedosto",
+      "status_save_as": "Tallenna tiedosto nimellä",
+      "status_settings": "Avaa asetukset",
+      "status_exit": "Poistu ohjelmasta",
+      "explorer_open_file": "Avaa tiedosto",
+      "explorer_save_file": "Tallenna tiedosto",
+      "explorer_extentions": "Tekstitiedostot (*.txt);;Kaikki tiedostot (*)",
+      "status_new_tab": "Uusi välilehti",
+      "status_close_tab": "Suljevälilehti",
+      "new_tab": "Uusi välilehti",
+      "close_tab": "Sulje välilehti",
+      "tabs": "Välilehdet"
+    },
+    "about": {
+      "title": "Tietoja",
+      "text": "<b>Notespad - yksinkertainen ja kevyt tekstieditori.<br><br>Tekijä: <a href=\"https://t.me/darkbot_dev\">Darkbot Studio</a><br><a href=\"https://github.com/DarkbotStudio\">Tekijän GitHub</a><br>Ohjelmiston versio - 1.0.2</b>"
+    },
+    "settings": {
+      "title": "Asetukset",
+      "language": "Ohjelman kieli:",
+      "restart_required": "Ohjelman uudelleenkäynnistys vaaditaan",
+      "restart_message": "Päivitä kielimuutokset ottamalla ohjelma uudelleen käyttöön."
+    },
+    "update": {
+      "available": "Päivitys saatavilla!",
+      "new_version": "Uusi ohjelmiston versio on saatavilla!",
+      "download": "Lataa päivitys",
+      "no_reminder": "Älä muistuta",
+      "remind_next_time": "Muistuta ensi kerralla"
+    }
+  },
+  "Svenska": {
+    "menu": {
+      "file": "Fil",
+      "new": "Ny fil",
+      "open": "Öppna",
+      "save": "Spara",
+      "save_as": "Spara som",
+      "settings": "Inställningar",
+      "about": "Om",
+      "exit": "Avsluta",
+      "status_file": "Skapa en ny fil",
+      "status_open": "Öppna fil",
+      "status_save": "Spara fil",
+      "status_save_as": "Spara fil som",
+      "status_settings": "Öppna inställningar",
+      "status_exit": "Avsluta programmet",
+      "explorer_open_file": "Öppna fil",
+      "explorer_save_file": "Spara fil",
+      "explorer_extentions": "Textfiler (*.txt);;Alla filer (*)",
+      "status_new_tab": "Ny flik",
+      "status_close_tab": "Stäng flik",
+      "new_tab": "Ny flik",
+      "close_tab": "Stäng flik",
+      "tabs": "Flikar"
+    },
+    "about": {
+      "title": "Om",
+      "text": "<b>Notespad - enkel och lättviktig textredigerare.<br><br>Författare: <a href=\"https://t.me/darkbot_dev\">Darkbot Studio</a><br><a href=\"https://github.com/DarkbotStudio\">Författarens GitHub</a><br>Programversion - 1.0.2</b>"
+    },
+    "settings": {
+      "title": "Inställningar",
+      "language": "Programspråk:",
+      "restart_required": "Omstart krävs",
+      "restart_message": "Starta om programmet för att språkändringarna ska träda i kraft."
+    },
+    "update": {
+      "available": "Uppdatering tillgänglig!",
+      "new_version": "En ny version av programmet är tillgänglig!",
+      "download": "Ladda ner uppdatering",
+      "no_reminder": "Inte påminna",
+      "remind_next_time": "Påminn nästa gång"
+    }
+  },
+  "Norsk": {
+    "menu": {
+      "file": "Fil",
+      "new": "Ny fil",
+      "open": "Åpne",
+      "save": "Lagre",
+      "save_as": "Lagre som",
+      "settings": "Innstillinger",
+      "about": "Om",
+      "exit": "Avslutt",
+      "status_file": "Opprett en ny fil",
+      "status_open": "Åpne fil",
+      "status_save": "Lagre fil",
+      "status_save_as": "Lagre fil som",
+      "status_settings": "Åpne innstillinger",
+      "status_exit": "Avslutt programmet",
+      "explorer_open_file": "Åpne fil",
+      "explorer_save_file": "Lagre fil",
+      "explorer_extentions": "Tekstfiler (*.txt);;Alle filer (*)",
+      "status_new_tab": "Ny fane",
+      "status_close_tab": "Lukk fane",
+      "new_tab": "Ny fane",
+      "close_tab": "Lukk fane",
+      "tabs": "Faner"
+    },
+    "about": {
+      "title": "Om",
+      "text": "<b>Notespad - en enkel og lett tekstredigerer.<br><br>Forfatter: <a href=\"https://t.me/darkbot_dev\">Darkbot Studio</a><br><a href=\"https://github.com/DarkbotStudio\">Forfatterens GitHub</a><br>Programvareversjon - 1.0.2</b>"
+    },
+    "settings": {
+      "title": "Innstillinger",
+      "language": "Programspråk:",
+      "restart_required": "Omstart kreves",
+      "restart_message": "Vennligst start programmet på nytt for at språkendringene skal tre i kraft."
+    },
+    "update": {
+      "available": "Oppdatering tilgjengelig!",
+      "new_version": "En ny versjon av programmet er tilgjengelig!",
+      "download": "Last ned oppdatering",
+      "no_reminder": "Ikke påminn",
+      "remind_next_time": "Påminn neste gang"
+    }
+  },
+  "Ελληνικά": {
+    "menu": {
+      "file": "Αρχείο",
+      "new": "Νέο αρχείο",
+      "open": "Άνοιγμα",
+      "save": "Αποθήκευση",
+      "save_as": "Αποθήκευση ως",
+      "settings": "Ρυθμίσεις",
+      "about": "Πληροφορίες",
+      "exit": "Έξοδος",
+      "status_file": "Δημιουργία νέου αρχείου",
+      "status_open": "Άνοιγμα αρχείου",
+      "status_save": "Αποθήκευση αρχείου",
+      "status_save_as": "Αποθήκευση αρχείου ως",
+      "status_settings": "Άνοιγμα ρυθμίσεων",
+      "status_exit": "Έξοδος από το πρόγραμμα",
+      "explorer_open_file": "Άνοιγμα αρχείου",
+      "explorer_save_file": "Αποθήκευση αρχείου",
+      "explorer_extentions": "Αρχεία κειμένου (*.txt);;Όλα τα αρχεία (*)",
+      "status_new_tab": "Νέα καρτέλα",
+      "status_close_tab": "Κλείσιμο καρτέλας",
+      "new_tab": "Νέα καρτέλα",
+      "close_tab": "Κλείσιμο καρτέλας",
+      "tabs": "Καρτέλες"
+    },
+    "about": {
+      "title": "Πληροφορίες",
+      "text": "<b>Notespad - ένα απλό και ελαφρύ επεξεργαστή κειμένου.<br><br>Συγγραφέας: <a href=\"https://t.me/darkbot_dev\">Darkbot Studio</a><br><a href=\"https://github.com/DarkbotStudio\">GitHub του συγγραφέα</a><br>Έκδοση λογισμικού - 1.0.2</b>"
+    },
+    "settings": {
+      "title": "Ρυθμίσεις",
+      "language": "Γλώσσα προγράμματος:",
+      "restart_required": "Απαιτείται επανεκκίνηση",
+      "restart_message": "Παρακαλώ επανεκκινήστε το πρόγραμμα για να εφαρμοστούν οι αλλαγές γλώσσας."
+    },
+    "update": {
+      "available": "Διαθέσιμη ενημέρωση!",
+      "new_version": "Διαθέσιμη νέα έκδοση του προγράμματος!",
+      "download": "Λήψη ενημέρωσης",
+      "no_reminder": "Να μην υπενθυμίζεται",
+      "remind_next_time": "Να υπενθυμίζεται την επόμενη φορά"
+    }
+  },
+  "Türkçe": {
+    "menu": {
+      "file": "Dosya",
+      "new": "Yeni dosya",
+      "open": "Aç",
+      "save": "Kaydet",
+      "save_as": "Farklı kaydet",
+      "settings": "Ayarlar",
+      "about": "Hakkında",
+      "exit": "Çıkış",
+      "status_file": "Yeni dosya oluştur",
+      "status_open": "Dosya aç",
+      "status_save": "Dosyayı kaydet",
+      "status_save_as": "Dosyayı farklı kaydet",
+      "status_settings": "Ayarları aç",
+      "status_exit": "Programdan çık",
+      "explorer_open_file": "Dosya aç",
+      "explorer_save_file": "Dosyayı kaydet",
+      "explorer_extentions": "Metin dosyaları (*.txt);;Tüm dosyalar (*)",
+      "status_new_tab": "Yeni sekme",
+      "status_close_tab": "Sekmeyi kapat",
+      "new_tab": "Yeni sekme",
+      "close_tab": "Sekmeyi kapat",
+      "tabs": "Sekmeler"
+    },
+    "about": {
+      "title": "Hakkında",
+      "text": "<b>Notespad - basit ve hafif bir metin düzenleyici.<br><br>Yazar: <a href=\"https://t.me/darkbot_dev\">Darkbot Studio</a><br><a href=\"https://github.com/DarkbotStudio\">Yazarın GitHub hesabı</a><br>Program sürümü - 1.0.2</b>"
+    },
+    "settings": {
+      "title": "Ayarlar",
+      "language": "Program dili:",
+      "restart_required": "Yeniden başlatma gerekiyor",
+      "restart_message": "Dil değişikliklerinin etkili olması için lütfen programı yeniden başlatın."
+    },
+    "update": {
+      "available": "Güncelleme mevcut!",
+      "new_version": "Programın yeni bir versiyonu mevcut!",
+      "download": "Güncellemeyi indir",
+      "no_reminder": "Hatırlatma yapma",
+      "remind_next_time": "Sonraki sefere hatırlat"
+    }
+  },
+  "Polski": {
+    "menu": {
+      "file": "Plik",
+      "new": "Nowy plik",
+      "open": "Otwórz",
+      "save": "Zapisz",
+      "save_as": "Zapisz jako",
+      "settings": "Ustawienia",
+      "about": "O programie",
+      "exit": "Wyjście",
+      "status_file": "Utwórz nowy plik",
+      "status_open": "Otwórz plik",
+      "status_save": "Zapisz plik",
+      "status_save_as": "Zapisz plik jako",
+      "status_settings": "Otwórz ustawienia",
+      "status_exit": "Wyjdź z programu",
+      "explorer_open_file": "Otwórz plik",
+      "explorer_save_file": "Zapisz plik",
+      "explorer_extentions": "Pliki tekstowe (*.txt);;Wszystkie pliki (*)",
+      "status_new_tab": "Nowa karta",
+      "status_close_tab": "Zamknij kartę",
+      "new_tab": "Nowa karta",
+      "close_tab": "Zamknij kartę",
+      "tabs": "Karty"
+    },
+    "about": {
+      "title": "O programie",
+      "text": "<b>Notespad - prosty i lekki edytor tekstu.<br><br>Autor: <a href=\"https://t.me/darkbot_dev\">Darkbot Studio</a><br><a href=\"https://github.com/DarkbotStudio\">GitHub autora</a><br>Wersja programu - 1.0.2</b>"
+    },
+    "settings": {
+      "title": "Ustawienia",
+      "language": "Język programu:",
+      "restart_required": "Wymagane ponowne uruchomienie",
+      "restart_message": "Proszę zrestartować program, aby zmiany językowe zostały wprowadzone."
+    },
+    "update": {
+      "available": "Dostępna aktualizacja!",
+      "new_version": "Dostępna jest nowa wersja programu!",
+      "download": "Pobierz aktualizację",
+      "no_reminder": "Nie przypominaj",
+      "remind_next_time": "Przypomnij następnym razem"
+    }
+  },
+  "Magyar": {
+    "menu": {
+      "file": "Fájl",
+      "new": "Új fájl",
+      "open": "Megnyitás",
+      "save": "Mentés",
+      "save_as": "Mentés másként",
+      "settings": "Beállítások",
+      "about": "Névjegy",
+      "exit": "Kilépés",
+      "status_file": "Új fájl létrehozása",
+      "status_open": "Fájl megnyitása",
+      "status_save": "Fájl mentése",
+      "status_save_as": "Fájl mentése másként",
+      "status_settings": "Beállítások megnyitása",
+      "status_exit": "Kilépés a programból",
+      "explorer_open_file": "Fájl megnyitása",
+      "explorer_save_file": "Fájl mentése",
+      "explorer_extentions": "Szöveges fájlok (*.txt);;Minden fájl (*)",
+      "status_new_tab": "Új lap",
+      "status_close_tab": "Lap bezárása",
+      "new_tab": "Új lap",
+      "close_tab": "Lap bezárása",
+      "tabs": "Lapok"
+    },
+    "about": {
+      "title": "Névjegy",
+      "text": "<b>Notespad - egy egyszerű és könnyű szövegszerkesztő.<br><br>Szerző: <a href=\"https://t.me/darkbot_dev\">Darkbot Studio</a><br><a href=\"https://github.com/DarkbotStudio\">Szerző GitHub-oldala</a><br>Szoftver verziója - 1.0.2</b>"
+    },
+    "settings": {
+      "title": "Beállítások",
+      "language": "Program nyelve:",
+      "restart_required": "Újraindítás szükséges",
+      "restart_message": "Kérlek, indítsd újra a programot a nyelvváltoztatások érvényesítéséhez."
+    },
+    "update": {
+      "available": "Frissítés elérhető!",
+      "new_version": "Elérhető egy új verzió a programból!",
+      "download": "Frissítés letöltése",
+      "no_reminder": "Ne emlékeztessen",
+      "remind_next_time": "Emlékeztessen legközelebb"
+    }
+  },
+  "Čeština": {
+    "menu": {
+      "file": "Soubor",
+      "new": "Nový soubor",
+      "open": "Otevřít",
+      "save": "Uložit",
+      "save_as": "Uložit jako",
+      "settings": "Nastavení",
+      "about": "O programu",
+      "exit": "Ukončit",
+      "status_file": "Vytvořit nový soubor",
+      "status_open": "Otevřít soubor",
+      "status_save": "Uložit soubor",
+      "status_save_as": "Uložit soubor jako",
+      "status_settings": "Otevřít nastavení",
+      "status_exit": "Ukončit program",
+      "explorer_open_file": "Otevřít soubor",
+      "explorer_save_file": "Uložit soubor",
+      "explorer_extentions": "Textové soubory (*.txt);;Všechny soubory (*)",
+      "status_new_tab": "Nová karta",
+      "status_close_tab": "Zavřít kartu",
+      "new_tab": "Nová karta",
+      "close_tab": "Zavřít kartu",
+      "tabs": "Karty"
+    },
+    "about": {
+      "title": "O programu",
+      "text": "<b>Notespad - jednoduchý a lehký textový editor.<br><br>Autor: <a href=\"https://t.me/darkbot_dev\">Darkbot Studio</a><br><a href=\"https://github.com/DarkbotStudio\">GitHub autora</a><br>Verze programu - 1.0.2</b>"
+    },
+    "settings": {
+      "title": "Nastavení",
+      "language": "Jazyk programu:",
+      "restart_required": "Je nutné restartovat",
+      "restart_message": "Prosím, restartujte program, aby se jazykové změny projevily."
+    },
+    "update": {
+      "available": "Aktualizace k dispozici!",
+      "new_version": "Je k dispozici nová verze programu!",
+      "download": "Stáhnout aktualizaci",
+      "no_reminder": "Neupomínat",
+      "remind_next_time": "Připomenout příště"
+    }
+  }
+}
